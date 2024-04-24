@@ -5,3 +5,5 @@
 3. Using the bs4 library, extract the articles from each product card (for example, from the element <p class="article"> Article: 80244813</p>).
 4. Add all the extracted articles.
 5. Presentation of the received result as an answer.
+
+https://parsinger.ru/html/index3_page_1.html
